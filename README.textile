@@ -1,0 +1,7 @@
+h1. @lineplease@: a website to help you learn your lines.
+
+If you have ever been in a play, musical, or even have had to make a long presentation and memorize it, you will know that it can be difficult to remember your "lines." This website is a WIP(Work in Progress) to help fix that problem. I aim for it to be a good looking, speaking website that will act a scene with you.
+
+h2. Nerdy Information
+
+I plan to write it with "Bootstrap":http://getbootstrap.com as a framework including a lot of "JQuery":https://jquery.com/ and CSS animations to make it look nice and functional. As for text-to-speech, I'm not sure how I'll fit that in (I might use "meSpeak.js":http://www.masswerk.at/mespeak/ or "ResponsiveVoice.JS":http://responsivevoice.org/). Also, its open-source under the "Apache License":https://www.apache.org/licenses/LICENSE-2.0!
